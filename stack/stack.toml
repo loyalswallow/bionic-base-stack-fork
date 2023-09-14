@@ -58,6 +58,8 @@ platforms = ["linux/amd64"]
     openssl \
     tzdata \
     zlib1g \
+    fontconfig \
+    ttf-dejavu \
     """
 
 [deprecated]
